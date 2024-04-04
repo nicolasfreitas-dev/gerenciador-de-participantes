@@ -1,1 +1,1 @@
-# gerenciador-de-participantes
+# Gerenciador de Participantes
