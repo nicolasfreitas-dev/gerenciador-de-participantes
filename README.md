@@ -1,5 +1,5 @@
 # Gerenciador de Participantes
-<p>Esse projeto consiste em uma página de gerenciamento de participantes para eventos, com informações fictícias de id, nome, email, data de inscrição e data de check-in, a título de exemplificação. O projeto foi desenvolvido em React.Ts, Typescript e Tailwindcss, durante o evento NLW Unite da Rocketseat 2024.</p>
+<p>Front-end de uma página de gerenciamento de participantes para eventos, com informações fictícias de id, nome, email, data de inscrição e data de check-in, a título de exemplificação. O projeto foi desenvolvido em React.Ts, Typescript e Tailwindcss, durante o evento NLW Unite da Rocketseat 2024.</p>
 
 
 ## Funcionalidades
